@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍳 奇奇的早餐
 
 给全家用的早餐老虎机。拉一下，帮你决定今天早上吃什么。
@@ -36,3 +37,7 @@ Next.js 14 (App Router) · TypeScript · Tailwind CSS · Upstash Redis · Vercel
 
 ## V2 预留
 早餐条目已预留 image / recipe 字段，后续可接入小红书图片与做法，无需重构数据结构。
+=======
+# qiqi_breakfast
+qiqi's breakfast
+>>>>>>> c93c7654540ba9313c97d7715e1f786eafe9885f
