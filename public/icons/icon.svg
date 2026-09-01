@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#4A9FFF"/>
+  <circle cx="256" cy="270" r="150" fill="#F0F7FF"/>
+  <!-- 蛋黄 -->
+  <circle cx="256" cy="270" r="62" fill="#2B6CB0"/>
+  <circle cx="238" cy="250" r="16" fill="#8FB8E8" opacity="0.9"/>
+  <!-- 眼睛 -->
+  <circle cx="212" cy="220" r="10" fill="#1E3A5C"/>
+  <circle cx="300" cy="220" r="10" fill="#1E3A5C"/>
+  <!-- 微笑 -->
+  <path d="M 228 320 Q 256 344 284 320" stroke="#1E3A5C" stroke-width="10" fill="none" stroke-linecap="round"/>
+</svg>
