@@ -4,6 +4,8 @@ import { DrawRecord, Breakfast } from "@/lib/types";
 
 export const dynamic = "force-dynamic";
 
+export const runtime = 'edge';
+
 var KEY = "qiqi:history";
 var KEEP_DAYS = 7;
 

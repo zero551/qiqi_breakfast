@@ -5,6 +5,8 @@ import { PRESET_BREAKFASTS } from "@/lib/presets";
 
 export const dynamic = "force-dynamic";
 
+export const runtime = 'edge';
+
 var KEY = "qiqi:breakfasts";
 
 function uid(): string {
